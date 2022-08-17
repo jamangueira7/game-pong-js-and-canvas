@@ -7,7 +7,7 @@
 
 <br>
 
-# Jogo de plataforma
+# Jogo Pong
 
 ## 🚀 Tecnologias
 
@@ -15,18 +15,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [NodeJS](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/)
-- [NPM](https://www.npmjs.com/)
 
 
 ## 💻 Projeto
 
-Jogo em NodeJS para aprendizado. Aprendendo a montar o cenario, a crair a movimentação de personagem,
-efito parallax, gravidade, movimentação, finalizar com vitoria e derrota.
+Criação de um jogo Pong.
 
-Canal [Chris Courses](https://www.youtube.com/watch?v=4q2vvZn5aoo)
+Canal [Chris Courses](https://www.youtube.com/watch?v=gCe_CNyPk5k)
 
 <p align="center">
   <img alt="game" src=".github/project.PNG">
@@ -35,9 +30,7 @@ Canal [Chris Courses](https://www.youtube.com/watch?v=4q2vvZn5aoo)
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- Entre na pasta do projeto e rode npm install.
-- "npm start".
-- Acesse http://localhost:3000/.
+- Entre na pasta do projeto e clicar em index.html.
 
 ## 🤔 Como contribuir
 
